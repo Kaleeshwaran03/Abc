@@ -28,6 +28,7 @@ public class Calc {
 		book.close();
 		
 		System.out.println("Success");
+		System.out.println("Successed");
 
 	}
 
